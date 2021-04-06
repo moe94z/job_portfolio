@@ -1,6 +1,6 @@
 # job_portfolio
 
-# 10 project for portfolio
+# 10 projects for portfolio
 
 # 1. HR Data Science Problem: Predict Employement based on the fellows creditionals. 
 *** Predictive Modeling,EDA, Visualization, RandomizedSearch Hypertuning
