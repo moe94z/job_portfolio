@@ -4,7 +4,7 @@
 
 # 1. HR Data Science Problem: Predict Employement based on the fellows creditionals. 
       a. two models
-        1. Classification: whether a fellow will be placed or not.
+        1. Classification: IF a fellow will be placed or not.
         2. Regression: WHEN a fellow will be placed
 
 # 2. NFL Offensive Play Prediction
