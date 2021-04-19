@@ -2,6 +2,8 @@
 
 #### 10 projects for portfolio
 
+# Completed Projects
+
 #### 1. HR Data Science Problem: Predict Employement based on the fellows creditionals. 
 *** Predictive Modeling,EDA, Visualization, RandomizedSearch Hypertuning
       a. two models
@@ -13,6 +15,7 @@
 
 
 # Project ideas
+
 #### 3. Stroke Prediction
     a. Predict when a patient will have a stroke
     b. dataset: https://www.kaggle.com/fedesoriano/stroke-prediction-dataset 
