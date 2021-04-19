@@ -11,6 +11,8 @@
 #### 2. NFL Offensive Play Prediction
       a. A logistic regression model that will predict the best defensive formation based on the offensive formation.
 
+
+##Project ideas
 #### 3. Stroke Prediction
     a. Predict when a patient will have a stroke
     b. dataset: https://www.kaggle.com/fedesoriano/stroke-prediction-dataset 
